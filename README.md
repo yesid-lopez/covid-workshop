@@ -147,6 +147,8 @@ GROUP BY country_name
 ORDER BY MORTALIDAD DESC
 ```
 
+**Click here to check the [Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/344449423735776/2785392546371234/8354352135207898/latest.html)**
+
 # 4.Visualization with Power BI
 
 ## 4.1 Connect Power BI with Databricks
@@ -178,5 +180,13 @@ Then Power BI will ask you for the credentials:
 
 Add them and click on `connect`. Finally import the covid table.
 
-![power-bi config](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-config3.PNG?raw=true)
+![power-bi config](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-config3.PNG?raw=true).
+
+## 4.2 Charts
+
+You can drag and drop the fields to create different charts as the following:
+
+![chart](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-chart.PNG?raw=true).
+
+If you want to check better the chart click on this [link](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-chart.pdf)
 
