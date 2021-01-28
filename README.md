@@ -188,5 +188,5 @@ You can drag and drop the fields to create different charts as the following:
 
 ![chart](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-chart.PNG?raw=true).
 
-If you want to check better the chart click on this [link](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-chart.pdf)
+If you want to check better the chart click on this [link](https://github.com/leonleo997/covid-workshop/blob/master/assets/power-bi-chart.pdf)
 
