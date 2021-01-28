@@ -1,9 +1,29 @@
+# Table of Content
+<!-- toc -->
+
+- [COVID WORKSHOP](#covid-workshop)
+- [1. Create the target bucket](#1-create-the-target-bucket)
+- [2. ETL Process](#2-etl-process)
+  * [2.1 Create a cluster](#21-create-a-cluster)
+  * [2.2 Create a notebook](#22-create-a-notebook)
+  * [2.3 Add ETL process](#23-add-etl-process)
+- [3. Consult data from our data](#3-consult-data-from-our-data)
+  * [3.1 External table creation](#31-external-table-creation)
+  * [3.2 Executing Queries](#32-executing-queries)
+    + [¿How many existing cases are around the world?](#%C2%BFhow-many-existing-cases-are-around-the-world)
+    + [¿Which are the most affected countries?](#%C2%BFwhich-are-the-most-affected-countries)
+    + [Identify the most critical points in the United States](#identify-the-most-critical-points-in-the-united-states)
+    + [Death Rate](#death-rate)
+- [4.Visualization with Power BI](#4visualization-with-power-bi)
+  * [4.1 Connect Power BI with Databricks](#41-connect-power-bi-with-databricks)
+  * [4.2 Charts](#42-charts)
+
+<!-- tocstop -->
+
 # COVID WORKSHOP
 
 Name: Yesid Leonardo López Sierra  
 Course: Cloud Computing  
-
-
 
 The following workshop teach you how to create an ETL, connect it to databricks and create visualizations using Power BI.
 
@@ -189,4 +209,3 @@ You can drag and drop the fields to create different charts as the following:
 ![chart](https://github.com/leonleo997/covid-workshop/blob/master/assets/images/power-bi-chart.PNG?raw=true).
 
 If you want to check better the chart click on this [link](https://github.com/leonleo997/covid-workshop/blob/master/assets/power-bi-chart.pdf)
-
