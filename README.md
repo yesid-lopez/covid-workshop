@@ -22,7 +22,7 @@
 
 # COVID WORKSHOP
 
-Name: Yesid Leonardo López Sierra  
+Name: Yesid Leonardo Lopez Sierra  
 Course: Cloud Computing  
 
 The following workshop teach you how to create an ETL, connect it to databricks and create visualizations using Power BI.
